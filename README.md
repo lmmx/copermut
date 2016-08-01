@@ -2,8 +2,6 @@
 
 [permut.co](http://permut.co) – Web project on information theory, graph patterns, permutations, and recombinations
 
-Web project on information theory, graph patterns, permutations, and recombinations - forthcoming at http://permut.co
-
 > `(478)(356) ⪯ `:computer:
 
 ### Aims:
